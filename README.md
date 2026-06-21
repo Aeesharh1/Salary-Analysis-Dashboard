@@ -26,7 +26,8 @@ An interactive Power BI dashboard analyzing employee compensation data across jo
 - Power BI (data modeling, DAX, visualization)
 
 ## Screenshot
-*(insert dashboard image here)*
+<img width="1098" height="683" alt="Screenshot 2026-06-16 124431" src="https://github.com/user-attachments/assets/f7e02ece-7bce-46e1-a00c-d54254ddf891" />
+
 
 ## What I Learned
 - Working with large public-sector compensation datasets
